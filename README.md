@@ -1,2 +1,2 @@
-# figure
-https://maksimzubrytski.github.io/figure/
+# Figure
+https://maksimzubrytski.github.io/Figure/
